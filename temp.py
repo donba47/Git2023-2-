@@ -6,6 +6,7 @@ f=int(b)
 g=int(d)
 l=int(d)
 m=int(d)
+n=int(d)
 e=f+g
 print("姓名 成績")# -*- coding: utf-8 -*-
 print("%3s  %2d"%(a,f))
