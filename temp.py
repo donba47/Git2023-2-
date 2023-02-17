@@ -4,6 +4,7 @@ c=input("請輸入第二位學生的姓名:\n")
 d=input("請輸入第二位學生的成績:\n")
 f=int(b)
 g=int(d)
+l=int(d)
 e=f+g
 print("姓名 成績")# -*- coding: utf-8 -*-
 print("%3s  %2d"%(a,f))
